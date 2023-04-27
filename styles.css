@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(83, 76, 114);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.welcome-page-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    text-align: center;
+    width: fit-content;
+    block-size: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+    transform: translate(-50%, -50%);
+
+    color: #dee5d7;
+    font-size: 30px;
+}
+
+.button-container {
+    padding-bottom: 10px;
+}
+
+.submit-button {
+    font-size: 30px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.hidden {
+    display: none;
+}

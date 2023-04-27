@@ -1,0 +1,23 @@
+{
+  "name": "monkey-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calin-buzetelu/monkey-portfolio.git"
+  },
+  "author": "Calin Buzetelu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calin-buzetelu/monkey-portfolio/issues"
+  },
+  "homepage": "https://github.com/calin-buzetelu/monkey-portfolio#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
