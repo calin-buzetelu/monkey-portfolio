@@ -17,18 +17,18 @@ body {
     transform: translate(-50%, -50%);
 
     color: #dee5d7;
-    font-size: 30px;
+    font-size: 80px;
 }
 
 .button-container {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 
 .submit-button {
     font-size: 30px;
     border-radius: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .hidden {
